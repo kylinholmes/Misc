@@ -4,6 +4,14 @@
 ![avatar](Avatar/justicetocat.jpg)
 
 ## Plan
-[x] Avatar in `Avatar`
+- [x] Avatar in `Avatar`
 
-[x] Wallpaper for Terminal background image in `TerminalWallpaper`
+- [x] Wallpaper for Terminal background image in `TerminalWallpaper`
+
+- [ ] Profile in `Profile` 
+
+### Profile
+**PowerShell**
+**SwitchyOmega**
+**Proxifier**
+**fish**
